@@ -1,0 +1,1 @@
+web: gunicorn dynamic_profile_project.wsgi --log-file -
