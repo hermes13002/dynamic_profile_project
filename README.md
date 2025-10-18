@@ -4,7 +4,7 @@ This project is a simple RESTful API built with Django as part of the HNG Backen
 
 The API is rate-limited to protect against abuse and is deployed on Railway.
 
-**Live Endpoint:** [**https://web-production-9f847.up.railway.app/me/**](https://web-production-9f847.up.railway.app/me)
+**Live Endpoint:** [**https://web-production-9f847.up.railway.app/me**](https://web-production-9f847.up.railway.app/me)
 
 ---
 
